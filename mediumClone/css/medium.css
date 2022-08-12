@@ -1,0 +1,21 @@
+.font-lora {
+    font-family: Lora;
+}
+
+.bg {
+    background-color: #FFC017;
+
+}
+
+.border-dark {
+    border-bottom: 1px solid #414141;
+
+}
+
+.aside-buttons > li {
+    margin-bottom: 10px;
+}
+
+border-top-dark {
+    border-top: 1px solid #c2c1c1;
+}
