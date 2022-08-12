@@ -1,2 +1,2 @@
-# instagramClone-Training
+# instagramandMediumClone-Training
 Simple HTML Instagram and Medium clone made with Bootstrap & CSS.
